@@ -1,0 +1,12 @@
+# bookmarklets
+- Tab Cloak
+  - When you click the bookmarklet, it ask you what you want to name the website. Then it ask you for the favicon. Put the number that goes along with the favicon and your good!
+- Notepad
+  - A simple little notepad!
+- Darkmode
+  - Inverts everything to make it look like darkmode. Also makes the font comicsans.
+- Tab close preventer
+  - If your school uses GoGuardian, this makes it so your teacher can't close your tab.
+- Piano
+  - Puts a little piano on your screen. Works best on any doc.google.com site.
+- 
