@@ -1,4 +1,4 @@
-# bookmarklets
+# Bookmarklets
 - Tab Cloak
   - When you click the bookmarklet, it ask you what you want to name the website. Then it ask you for the favicon. Put the number that goes along with the favicon and your good!
 - Notepad
@@ -18,4 +18,4 @@
 - Youtube admin Bypass
   - Bypasses the admin blocking on Youtube.
 - Youtube Ad Skip
-  - 
+  - Click the bookmarklets and it will skip the ad.
