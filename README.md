@@ -9,4 +9,13 @@
   - If your school uses GoGuardian, this makes it so your teacher can't close your tab.
 - Piano
   - Puts a little piano on your screen. Works best on any doc.google.com site.
-- 
+- History Flooder
+  - Put the amount of how many times you want the website your on to be in your history.
+- Snake Mods
+  - Puts mods on snake. Its pretty fun.
+- Dictionary
+  - Put in a word and it redirects you to the dictionary and gives you the definition of that word.
+- Youtube admin Bypass
+  - Bypasses the admin blocking on Youtube.
+- Youtube Ad Skip
+  - 
