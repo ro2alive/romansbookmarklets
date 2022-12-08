@@ -20,3 +20,5 @@
   - If your school uses GoGuardian, this makes it so your teacher can't close your tab.
 - Youtube admin Bypass
   - Bypasses the admin blocking on Youtube.
+- Dev Console
+  - When you click the bookmarklet, it should say "Loaded Dev Console!" Should work on every web site. Best to use it when your using the Blooket cheats in one of my other repositories.
