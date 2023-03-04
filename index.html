@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+    <link rel="icon" type="image/x-icon" href="https://www.google.com/favicon.ico">
+    <link rel="stylesheet" href="styles.css">
+</head>
+                <center> <img src="romansbookmarlets.jpg" alt="Roman's Bookmarklets" /></li></center>
+<details>
+    <summary style="color:black;">How to install a bookmarklet (click me)</summary>
+<p style="color:black;">Just drag and drop the hyperlinks (underlined blue) onto your bookmarks bar</p>
+</details>
+    <p style="color:black;"><a href="javascript: if (typeof all === 'undefined') {let all = [];} all = document.getElementsByTagName('*'); for (let i = 0; i < all.length; i++) { if(typeof all[i].style !== 'undefined'){all[i].style.fontFamily = "Comic Sans MS";}} document.getElementsByTagName("html")[0].style.filter = "invert()"; if (typeof elems === 'undefined') {let elems = [];} elems = document.querySelectorAll(" a, img, video"); for (let j = 0 ; j < elems.length; j++) { if((elems[j].nodeName == "A" && (elems[j].style.background != "" || elems[j].style.backgroundImage != "")) || elems[j].nodeName != "A"){elems[j].style.filter = "invert()";} } void 0;">Dark Mode</a> - Makes your page to dark mode and also changes the font to comic sans. </p>
+    <p style="color:black;"><a href="javascript:(function()%7B(function() %7Bvar x %3D document.createElement("script")%3Bx.src %3D "https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FSnowLord7%2Fdevconsole%40master%2Fmain.js"%3Bx.onload %3D alert("Loaded Developer Console!")%3Bdocument.head.appendChild(x)%3B%7D)()%7D)()">Dev Console</a> - When you click the link it loads up a dev console. To access it, click on the button in the bottom right of your screen. </p>
+    <p style="color:black;"><a href="javascript:var q=escape(window.getSelection()),i,ii;if(!q){for(i=0;i<frames.length;i++){var fr=frames[i];try{q=escape(fr.getSelection())}catch(e){};if(q)break;else{for(ii=0;ii<fr.frames.length;ii++){try{q=escape(fr.frames[ii].getSelection())}catch(e){};if(q)break;}}}}if(!q)void(q=prompt('Enter word to define%3A',''));if(q)void(location.href='http://www.dictionary.com/cgi-bin/dict.pl?term=%27+q);">Dictionary</a> - Put a word into the prompt and it will give you the definition </p>
+    <p style="color:black;"><a href="javascript:var num=prompt("History flood amount:");done=false;x=window.location.href;for (var i=1; i<=num; i++){history.pushState(0, 0, i==num?x:i.toString());if(i==num){done=true}}if(done===true){alert("History flood successful! "+window.location.href+" now appears in your history "+num+(num==1?" time.":" times."))}">History Flooder</a> - Enter the amount of times you want the website you are own to show up in your history </p>
+    <p style="color:black;"><a href="javascript:(function () {req = new XMLHttpRequest(); req.open('GET', 'https://raw.githubusercontent.com/DarkSnakeGang/GoogleSnakeCustomMenuStuff/main/custom.js'); req.onload = function() { eval(this.responseText + 'snake.more_menu();'); }; req.send();})()">Snake Mods</a> - Mods for the Google Snake Game. </p>
+    <p style="color:black;"><a href="javascript:(function(){var title=prompt(&quot;New title?&quot;);document.title=title})();">Tab Cloak</a> - Choose what you want to name and also choose the favicon you want with the number it has beside it. </p>
+    <p style="color:black;"><a href="javascript:(function () {window.onbeforeunload = function() { return 1; };})()">Tab Close Preventer</a> - Prevents your tab from being closed by your Teacher </p>
+    <p style="color:black;"><a href="javascript:(function () {if (window.location.toString().includes('www.youtube.com/watch?v%27)) { window.open(%27https://www.youtube-nocookie.com/embed/%27 + window.location.toString().split(%27=%27)[1]) }})()">Youtube Admin Bypass</a> - Bypass your school blocking videos on Youtube </p>
+    <p style="color:black;"><a href="javascript: if(document.getElementsByClassName("video-ads")[0].innerHTML !==""){ var banner = false; for(var i = 0; i < document.getElementsByClassName("ytp-ad-overlay-close-button").length; i++){ document.getElementsByClassName("ytp-ad-overlay-close-button")[i].click(); banner = true;} if(banner === false){ document.getElementsByClassName("html5-main-video")[0].currentTime = document.getElementsByClassName("html5-main-video")[0].duration; document.getElementsByClassName("ytp-ad-skip-button")[0].click();} }void 0;">Youtube Ad Skip</a> - Skips the adds on Youtube </p>
+</html>
